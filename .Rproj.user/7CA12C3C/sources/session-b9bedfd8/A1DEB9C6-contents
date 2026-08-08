@@ -1,2 +1,6 @@
 source("Capstone_Petfood_Grp1_v20260726.R")
 source("CDAR2026_Build_Country_Artefact.R")
+
+git add .
+git commit -m "Add index.html and frontend assets"
+git push origin main
